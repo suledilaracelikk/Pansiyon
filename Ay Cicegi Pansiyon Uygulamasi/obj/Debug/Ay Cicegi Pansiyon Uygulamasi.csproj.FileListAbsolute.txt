@@ -1,0 +1,22 @@
+C:\Users\suled\source\repos\Ay Cicegi Pansiyon Uygulamasi\Ay Cicegi Pansiyon Uygulamasi\bin\Debug\Ay Cicegi Pansiyon Uygulamasi.exe.config
+C:\Users\suled\source\repos\Ay Cicegi Pansiyon Uygulamasi\Ay Cicegi Pansiyon Uygulamasi\bin\Debug\Ay Cicegi Pansiyon Uygulamasi.exe
+C:\Users\suled\source\repos\Ay Cicegi Pansiyon Uygulamasi\Ay Cicegi Pansiyon Uygulamasi\bin\Debug\Ay Cicegi Pansiyon Uygulamasi.pdb
+C:\Users\suled\source\repos\Ay Cicegi Pansiyon Uygulamasi\Ay Cicegi Pansiyon Uygulamasi\obj\Debug\Ay Cicegi Pansiyon Uygulamasi.csprojAssemblyReference.cache
+C:\Users\suled\source\repos\Ay Cicegi Pansiyon Uygulamasi\Ay Cicegi Pansiyon Uygulamasi\obj\Debug\Ay_Cicegi_Pansiyon_Uygulamasi.Properties.Resources.resources
+C:\Users\suled\source\repos\Ay Cicegi Pansiyon Uygulamasi\Ay Cicegi Pansiyon Uygulamasi\obj\Debug\Ay Cicegi Pansiyon Uygulamasi.csproj.GenerateResource.cache
+C:\Users\suled\source\repos\Ay Cicegi Pansiyon Uygulamasi\Ay Cicegi Pansiyon Uygulamasi\obj\Debug\Ay Cicegi Pansiyon Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\suled\source\repos\Ay Cicegi Pansiyon Uygulamasi\Ay Cicegi Pansiyon Uygulamasi\obj\Debug\Ay Cicegi Pansiyon Uygulamasi.exe
+C:\Users\suled\source\repos\Ay Cicegi Pansiyon Uygulamasi\Ay Cicegi Pansiyon Uygulamasi\obj\Debug\Ay Cicegi Pansiyon Uygulamasi.pdb
+C:\Users\suled\source\repos\Ay Cicegi Pansiyon Uygulamasi\Ay Cicegi Pansiyon Uygulamasi\obj\Debug\Ay_Cicegi_Pansiyon_Uygulamasi.frmyenimusteri.resources
+C:\Users\suled\source\repos\Ay Cicegi Pansiyon Uygulamasi\Ay Cicegi Pansiyon Uygulamasi\obj\Debug\Ay_Cicegi_Pansiyon_Uygulamasi.frmadmingiris.resources
+C:\Users\suled\source\repos\Ay Cicegi Pansiyon Uygulamasi\Ay Cicegi Pansiyon Uygulamasi\obj\Debug\Ay_Cicegi_Pansiyon_Uygulamasi.frmanaform.resources
+C:\Users\suled\source\repos\Ay Cicegi Pansiyon Uygulamasi\Ay Cicegi Pansiyon Uygulamasi\obj\Debug\Ay_Cicegi_Pansiyon_Uygulamasi.frmodalar.resources
+C:\Users\suled\source\repos\Ay Cicegi Pansiyon Uygulamasi\Ay Cicegi Pansiyon Uygulamasi\obj\Debug\Ay_Cicegi_Pansiyon_Uygulamasi.kayitlimusteriler.resources
+C:\Users\suled\source\repos\Ay Cicegi Pansiyon Uygulamasi\Ay Cicegi Pansiyon Uygulamasi\obj\Debug\Ay_Cicegi_Pansiyon_Uygulamasi.musteriguncelle.resources
+C:\Users\suled\source\repos\Ay Cicegi Pansiyon Uygulamasi\Ay Cicegi Pansiyon Uygulamasi\obj\Debug\Ay_Cicegi_Pansiyon_Uygulamasi.musterisil.resources
+C:\Users\suled\source\repos\Ay Cicegi Pansiyon Uygulamasi\Ay Cicegi Pansiyon Uygulamasi\obj\Debug\Ay_Cicegi_Pansiyon_Uygulamasi.musteriara.resources
+C:\Users\suled\source\repos\Ay Cicegi Pansiyon Uygulamasi\Ay Cicegi Pansiyon Uygulamasi\obj\Debug\Ay_Cicegi_Pansiyon_Uygulamasi.frmmesaj.resources
+C:\Users\suled\source\repos\Ay Cicegi Pansiyon Uygulamasi\Ay Cicegi Pansiyon Uygulamasi\bin\Debug\Ay Cicegi Pansiyon Uygulamasi.exe.manifest
+C:\Users\suled\source\repos\Ay Cicegi Pansiyon Uygulamasi\Ay Cicegi Pansiyon Uygulamasi\bin\Debug\Ay Cicegi Pansiyon Uygulamasi.application
+C:\Users\suled\source\repos\Ay Cicegi Pansiyon Uygulamasi\Ay Cicegi Pansiyon Uygulamasi\obj\Debug\Ay Cicegi Pansiyon Uygulamasi.exe.manifest
+C:\Users\suled\source\repos\Ay Cicegi Pansiyon Uygulamasi\Ay Cicegi Pansiyon Uygulamasi\obj\Debug\Ay Cicegi Pansiyon Uygulamasi.application
